@@ -1,4 +1,4 @@
-from controller import Robot, Keyboard, Motion
+from controller import Robot
 import math
 timestep=32
 
